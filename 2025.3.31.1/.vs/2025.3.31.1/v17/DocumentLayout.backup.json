@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\\2025.3.31.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D017229-D9EC-4B8E-AA78-6D5A63F97A47}|2025.3.31.1\\2025.3.31.1.vcxproj|D:\\C\\2025.3.31.1\\2025.3.31.1\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D017229-D9EC-4B8E-AA78-6D5A63F97A47}|2025.3.31.1\\2025.3.31.1.vcxproj|solutionrelative:2025.3.31.1\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D017229-D9EC-4B8E-AA78-6D5A63F97A47}|2025.3.31.1\\2025.3.31.1.vcxproj|D:\\C\\2025.3.31.1\\2025.3.31.1\\\u795E.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D017229-D9EC-4B8E-AA78-6D5A63F97A47}|2025.3.31.1\\2025.3.31.1.vcxproj|solutionrelative:2025.3.31.1\\\u795E.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u795E.c",
+              "DocumentMoniker": "D:\\C\\2025.3.31.1\\2025.3.31.1\\\u795E.c",
+              "RelativeDocumentMoniker": "2025.3.31.1\\\u795E.c",
+              "ToolTip": "D:\\C\\2025.3.31.1\\2025.3.31.1\\\u795E.c",
+              "RelativeToolTip": "2025.3.31.1\\\u795E.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-31T04:08:05.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "D:\\C\\2025.3.31.1\\2025.3.31.1\\\u6E90.c",
+              "RelativeDocumentMoniker": "2025.3.31.1\\\u6E90.c",
+              "ToolTip": "D:\\C\\2025.3.31.1\\2025.3.31.1\\\u6E90.c",
+              "RelativeToolTip": "2025.3.31.1\\\u6E90.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-31T04:07:49.338Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
