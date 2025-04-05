@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\\yusaka-yusaka\\33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{627D2026-8DFC-43D6-818D-4B3844F6725F}|33\\33.vcxproj|D:\\C\\yusaka-yusaka\\33\\33\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{627D2026-8DFC-43D6-818D-4B3844F6725F}|33\\33.vcxproj|solutionrelative:33\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "D:\\C\\yusaka-yusaka\\33\\33\\\u6E90.c",
+              "RelativeDocumentMoniker": "33\\\u6E90.c",
+              "ToolTip": "D:\\C\\yusaka-yusaka\\33\\33\\\u6E90.c*",
+              "RelativeToolTip": "33\\\u6E90.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-05T16:05:25.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
