@@ -1,13 +1,15 @@
 #include<stdio.h>
 int A(char* i)
 {
-	int o = 0;
-	while (*i != '\0')
-	{
-		o++;
-		i++;
-	}
-	return o;
+	//A("abc")
+	//1+A("bc")
+	//1+1+A("c")
+	//1+1+1+A("\0")
+	//1+1+1+0
+	if (*i != '\0')
+		return 1 + A(i + 1);
+	else
+		return 0;
 }
 int main()
 {
