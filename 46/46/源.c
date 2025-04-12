@@ -1,4 +1,7 @@
 #include<stdio.h>
+//形参与实参；
+
+
 void e(int* x, int* y)//形参
 {
 	int z = *x;
