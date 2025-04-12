@@ -4,6 +4,7 @@
 #include <windows.h>  // 添加Sleep函数支持
 
 // 菜单函数
+//
 void menu()
 {
     system("cls");  // 清屏优化界面
@@ -81,6 +82,7 @@ int main()
             printf("无效选择！");
             Sleep(2000);
             break;
+
         }
     } while (1);  // 改为无限循环，通过return退出
 
