@@ -18,3 +18,7 @@ void playwanjai(char qipan[X][Y], int a, int b);
 //入机下棋
 //随便找一个没下棋的位置下棋
 void playruji(char qipan[X][Y], int a, int b);
+
+//结束代码
+//1.玩家赢'*'2电脑赢'#'3平局'Q'4继续'C'
+char jiesu(char qipan[X][Y], int a, int b);

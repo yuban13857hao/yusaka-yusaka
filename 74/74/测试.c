@@ -8,26 +8,58 @@ void CAIDAN()//菜单
 
 void game()//游戏
 {
+	int ret = 0;
 	char qipan[X][Y] = { 0 };//棋盘
 
 	cushihua(qipan, X, Y);//初始化棋盘
 
 	dayin(qipan, X, Y);//打印棋盘
 
+
+	
 	//下棋
 	while (1)
 	{
+		
+		
+
 		//玩家下棋
 		playwanjai(qipan,X,Y);
 
 		dayin(qipan, X, Y);
 
+		//判断输赢
+		ret = jiesu(qipan, X, Y);
+
+		if (ret != 'C')
+		{
+			break;
+		}
 		//入机下棋
 		playruji(qipan, X, Y);
 
-		dayin(qipan, X, Y);
+		//判断输赢
+		ret = jiesu(qipan, X, Y);
+		if (ret != 'C')
+		{
+			break;
+		}
+		dayin(qipan, X, Y);//打印棋盘
 
 	}
+	if (ret == '*')
+	{
+		printf("玩家胜利\n");
+	}
+	else if (ret == '#')
+	{
+		printf("入机胜利\n");
+	}
+	else
+	{
+		printf("平局\n");
+	}
+	dayin(qipan, X, Y);//打印棋盘
 
 }
 
