@@ -1,4 +1,5 @@
 #include "game.h"
+//É¨À×
 void JIRMIAN()
 {
 	printf("    É¨À×    \n");
