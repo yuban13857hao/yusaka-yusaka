@@ -14,13 +14,27 @@ void game()
 	char jia[XS][YS] = { 0 };//排查出的雷的信息
 	//初始化数组的内容为指定的内容
 	//zeng在没有布置雷的时候，都是'0'
+	cushihua(zeng, XS, YS, '0');
 	//jia在没有排查雷的时候，都是'*'
+	cushihua(jia, XS, YS, '*');
+	//设置雷
+	lei(zeng, X, Y);
+	//打印
+	//dayin(zeng, X, Y);//不应该被打印，现在只是测试
+	dayin(jia, X, Y);//打印
+	//排查雷
+	paica(zeng, jia, X, Y);
+
+
 
 }
 
 int main()
 {
 	int a = 0;
+	//设置随机数的生成起点
+	srand((unsigned int)time(NULL));
+
 	do
 	{
 		JIRMIAN();

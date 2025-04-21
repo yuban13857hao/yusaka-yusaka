@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C\\yusaka-yusaka\\83\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFF535B9-E637-4D77-812D-0A575B47FD3C}|83\\83.vcxproj|D:\\C\\yusaka-yusaka\\83\\83\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFF535B9-E637-4D77-812D-0A575B47FD3C}|83\\83.vcxproj|solutionrelative:83\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFF535B9-E637-4D77-812D-0A575B47FD3C}|83\\83.vcxproj|D:\\C\\yusaka-yusaka\\83\\83\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FFF535B9-E637-4D77-812D-0A575B47FD3C}|83\\83.vcxproj|solutionrelative:83\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF535B9-E637-4D77-812D-0A575B47FD3C}|83\\83.vcxproj|D:\\C\\yusaka-yusaka\\83\\83\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFF535B9-E637-4D77-812D-0A575B47FD3C}|83\\83.vcxproj|solutionrelative:83\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFF535B9-E637-4D77-812D-0A575B47FD3C}|83\\83.vcxproj|D:\\C\\yusaka-yusaka\\83\\83\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "83\\game.h",
               "ToolTip": "D:\\C\\yusaka-yusaka\\83\\83\\game.h",
               "RelativeToolTip": "83\\game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-19T06:02:41.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "game.c",
               "DocumentMoniker": "D:\\C\\yusaka-yusaka\\83\\83\\game.c",
               "RelativeDocumentMoniker": "83\\game.c",
-              "ToolTip": "D:\\C\\yusaka-yusaka\\83\\83\\game.c",
-              "RelativeToolTip": "83\\game.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\C\\yusaka-yusaka\\83\\83\\game.c*",
+              "RelativeToolTip": "83\\game.c*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-19T06:02:31.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "\u6E90.c",
               "DocumentMoniker": "D:\\C\\yusaka-yusaka\\83\\83\\\u6E90.c",
               "RelativeDocumentMoniker": "83\\\u6E90.c",
               "ToolTip": "D:\\C\\yusaka-yusaka\\83\\83\\\u6E90.c",
               "RelativeToolTip": "83\\\u6E90.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-19T06:02:22.735Z",
               "EditorCaption": ""
