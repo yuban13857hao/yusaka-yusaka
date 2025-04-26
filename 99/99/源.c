@@ -2,6 +2,7 @@
 //找出5位数中所有的变种水仙花数
 #include <stdio.h>
 
+
 int main() {
     for (int i = 10000; i < 100000; i++) 
     {
